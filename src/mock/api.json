@@ -1,0 +1,20 @@
+{
+  "listas": [
+    {
+      "nome": "ta faltando",
+      "produtos": [
+        {
+          "nome": "arroz",
+          "qtd": 3,
+          "valor": 0
+        },
+        {
+          "nome": "macarrão",
+          "qtd": 1,
+          "valor": 0
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
