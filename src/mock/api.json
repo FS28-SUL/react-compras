@@ -6,15 +6,26 @@
         {
           "nome": "arroz",
           "qtd": 3,
-          "valor": 0
+          "valor": 2
         },
         {
           "nome": "macarrão",
           "qtd": 1,
-          "valor": 0
+          "valor": 3
         }
       ],
       "id": 1
+    },
+    {
+      "nome": "teste",
+      "produtos": [
+        {
+          "nome": "teste",
+          "qtd": 3,
+          "valor": 0
+        }
+      ],
+      "id": 2
     }
   ]
 }
